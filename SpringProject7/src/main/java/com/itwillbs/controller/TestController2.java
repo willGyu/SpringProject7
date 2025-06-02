@@ -10,5 +10,9 @@ public class TestController2 {
 	public void test2() {
 		// 기능 완료
 	}
+	@RequestMapping(value = "/test3")
+	public void test3() {
+		// 기능 완료
+	}
 	
 }
